@@ -1,6 +1,8 @@
 # Search Lights for Neovim
 
-A dark Neovim colorscheme ported from the VS Code theme by radiolevity.
+A Neovim port of the [Search Lights](https://github.com/radiolevity/search-lights) VS Code theme by [radiolevity](https://github.com/radiolevity).
+
+> **Note:** This is an unofficial port. All credit for the original color palette and design goes to [radiolevity](https://github.com/radiolevity). If you enjoy this theme, please star the [original repository](https://github.com/radiolevity/search-lights)!
 
 ## Screenshots
 
@@ -424,9 +426,10 @@ Contributions are welcome! Please feel free to submit issues or pull requests.
 
 ## Credits
 
-- Original VS Code theme by [radiolevity](https://github.com/radiolevity)
-- Neovim port maintained by the community
+- Original [Search Lights VS Code theme](https://github.com/radiolevity/search-lights) by [radiolevity](https://github.com/radiolevity)
+- Color palette and design inspiration from the original theme
+- Neovim port by [bittersweetryan](https://github.com/bittersweetryan)
 
 ## License
 
-MIT
+MIT - See [LICENSE](LICENSE) for details. Original theme also MIT licensed.
