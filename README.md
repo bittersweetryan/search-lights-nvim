@@ -4,7 +4,7 @@ A dark Neovim colorscheme ported from the VS Code theme by radiolevity.
 
 ## Screenshots
 
-<!-- Add screenshots here -->
+![Search Lights for Neovim](readme_assets/search-lights-nvim.png)
 
 ## Features
 
