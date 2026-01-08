@@ -93,7 +93,7 @@ function M.setup(c, opts)
     StorageClass = { fg = c.orange, italic = italic },
     Structure = { fg = c.orange },
     Typedef = { fg = c.orange },
-    Special = { fg = c.yellow },
+    Special = { fg = c.magenta },
     SpecialChar = { fg = c.yellow },
     Tag = { fg = c.yellow },
     Delimiter = { fg = c.fg0 },
